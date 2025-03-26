@@ -1,0 +1,41 @@
+#section{
+    border: solid black 2px;
+    width: 40%;
+    height: 40%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#list{
+    font-family: 'Bungee Tint', cursive;
+    margin-left: -45px;
+
+}
+.form{
+    margin-left: 30px;
+}
+
+#btn{
+    text-shadow: 20px;
+    background: rgb(150, 172, 27);
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 33px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+.container{
+    display: flex;
+    width: 50%;
+    height: 30%;
+    margin-left: 193px;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+.edit{
+    margin-left: -130px;
+    border-radius: 10px;
+}
+.trash{
+    border-radius: 10px;
+}
